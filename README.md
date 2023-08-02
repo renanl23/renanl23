@@ -26,7 +26,7 @@
   </div><br/>  
 </div>
 
-- 👨‍🎓 Graduado em [Sistemas para Internet](https://portal.ifrn.edu.br/ensino/cursos/cursos-de-graduacao/tecnologia/tecnologia-em-sistemas-para-internet/view) no IFRN
+- 👨‍🎓 Graduado em [Sistemas para Internet](https://portal.ifrn.edu.br/cursos/superiores/graduacao/tecnologia-em-sistemas-para-internet/) no IFRN
 - 🔭 Sou estudante de [Pós-Graduação em TI com Residência no TCE/RN](https://www.tce.rn.gov.br/Noticias/NoticiaDetalhada/4223#gsc.tab=0) pela UFRN
 - 🌱 Estou estudando [desenvolvimento web na Practicum](https://practicum.com/pt-bra/web/), com HTML, CSS, Javascript e React
 - 📫 Pode me encontrar [aqui no Linkedin](https://www.linkedin.com/in/renan-lima-b57057211/)
